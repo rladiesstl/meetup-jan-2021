@@ -15,9 +15,9 @@ options(htmltools.dir.version = FALSE)
 
 # Materials for tonight 
 
-- All materials can be found here: 
+<br>
 
-- Install R packages:
+- All materials can be found here: https://github.com/datasketch/rladies-stl-personalized-shiny-apps
 
 
 ---
